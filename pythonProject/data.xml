@@ -1,0 +1,12 @@
+<root>
+    <person>
+        <name>Gojo</name>
+        <age>30</age>
+        <city>New York</city>
+    </person>
+    <person>
+        <name>Jameson Harley</name>
+        <age>25</age>
+        <city>San Francisco</city>
+    </person>
+</root>
