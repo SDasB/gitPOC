@@ -14,4 +14,3 @@ end_time = time.time()
 elapsed_time = end_time - start_time
 
 print(f"The12333 {n}-th Fibonacci number is: {result}")
-print(f"Elapsed time: {elapsed_time} seconds")
