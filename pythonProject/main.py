@@ -8,5 +8,5 @@ for length in range(1,5):
         print(combination)
         guess = "".join(combination)
         if guess == target_password:
-            print(f"Password cracked: {guess}")
+            print(f"Password cracked123: {guess}")
             break
