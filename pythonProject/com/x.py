@@ -20,3 +20,7 @@ def save_draft(post):
     print("Timestamp added to draft.")
     print("Timestamp added to draft.123")
     print("Timestamp added to draft.x")
+    print(f"Draft saved: {post}")
+    print("Timestamp added to draft.")
+    print("Timestamp added to draft.123")
+    print("Timestamp added to draft.x")
